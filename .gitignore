@@ -16,5 +16,5 @@ src/slivarpkg/comphet
 *.json
 src/slivarpkg/make_gnotate
 src/slivarpkg/siset
-
-
+*.tsv
+paper/dn_roc
